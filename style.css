@@ -1,0 +1,19 @@
+body{
+	//background-color:red;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.case{
+	background-color:black;
+	color:white;
+	width:100px;
+	height:100px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	cursor: pointer;
+	position:absolute;
+	
+}
